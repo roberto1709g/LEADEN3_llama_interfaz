@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LEADEN2</string>
+    <string name="accessibility_service_description">Permite a LEADEN2 intentar pulsar la llamada de voz en WhatsApp solo después de una confirmación afirmativa y tras verificar el contacto visible.</string>
+</resources>
